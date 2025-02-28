@@ -5,9 +5,6 @@
 ## Paradigmas de Programación
 
 - ### Imperativo
-
-    #### El enfoque tradicional basado en instrucciones paso a paso
-
 - ### Orientado a Objetos
 - ### Funcional
 
